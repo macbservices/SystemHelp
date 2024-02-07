@@ -7,7 +7,7 @@ Instalado do Chatwoot+ Evolution api + typebot
 
 
 
-apt update -y && apt upgrade -y && git clone  https://github.com/HOOUVPN/SystemHelp.git && cd SystemHelp && chmod +x menu.sh && sudo ./menu.sh
+apt update -y && apt upgrade -y && git clone  https://github.com/macbservices/SystemHelp.git && cd SystemHelp && chmod +x menu.sh && sudo ./menu.sh
 
 
 https://sua /manager
